@@ -16,6 +16,8 @@ If you use the material provided here, please cite the paper using the reference
       title={GWSkyNet: a real-time classifier for public gravitational-wave candidates}, 
       author={Miriam Cabero and Ashish Mahabal and Jess McIver},
       year={2020},
+      journal = {ApJL},
+      doi = {10.3847/2041-8213/abc5b5},
       eprint={2010.11829},
       archivePrefix={arXiv},
       primaryClass={gr-qc}
